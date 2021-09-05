@@ -1,0 +1,16 @@
+name: intro_plasma
+channels:
+  - conda-forge
+  - bioconda
+  
+dependencies:
+  - jupyterlab>=3
+  - nbresuse
+  - python>=3.7
+  - pip
+  - nodejs
+  - r-irkernel
+  - r-base>=3.6
+  - r-tidyverse
+  - pip:
+    - bash_kernel
