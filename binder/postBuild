@@ -1,8 +1,4 @@
-jupyter labextension install \
-  jupyterlab-topbar-extension \
-  jupyterlab-system-monitor \
-  jupyterlab-topbar-text
-
+# Install Bash kernel
 python -m bash_kernel.install --sys-prefix
 
 # Install R package
