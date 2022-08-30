@@ -19,6 +19,9 @@ dependencies:
   # Jupyter archive
   # https://github.com/jupyterlab-contrib/jupyter-archive
   - jupyter-archive
+  # JupyterLab git
+  # https://github.com/jupyterlab/jupyterlab-git
+  - jupyterlab-git
   # R environment
   - r-irkernel
   - r-base>=4
@@ -30,4 +33,3 @@ dependencies:
     - lckr-jupyterlab-variableinspector
     # Bash environment
     - bash_kernel
-    
