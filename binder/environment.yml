@@ -30,3 +30,4 @@ dependencies:
     - lckr-jupyterlab-variableinspector
     # Bash environment
     - bash_kernel
+    
