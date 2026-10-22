@@ -3,9 +3,8 @@ name: intro-plasma
 # see https://bioconda.github.io/
 # conda-forge has highest priority
 channels:
-  - defaults
-  - bioconda
   - conda-forge
+  - bioconda
 dependencies:
   # Jupyter dependencies
   - jupyterhub>=4.1.6,<5
