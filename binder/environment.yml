@@ -5,6 +5,7 @@ name: intro-plasma
 channels:
   - conda-forge
   - bioconda
+  - nodefaults
 dependencies:
   # Jupyter dependencies
   - jupyterhub>=4.1.6,<5
